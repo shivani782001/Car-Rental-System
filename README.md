@@ -1,6 +1,6 @@
 # Car Rental System using (OOPs) Java
 
-The Car Rental System, an interactive Java console application that blends education and simulation.
+Car Rental System, an interactive Java console application that blends education and simulation.
 
 1. Rent a Car: Encounter the simplicity of car rental via an engaging console interface.
 2. Return a Car: Seamlessly return previously leased vehicles and revise availability status.
