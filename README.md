@@ -1,4 +1,4 @@
-# Car Rental System using (OOPs) Java
+# Car Rental System - using (OOPs) Java
 
 Car Rental System, an interactive Java console application that blends education and simulation.
 
